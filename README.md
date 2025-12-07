@@ -1,4 +1,12 @@
-# time_tracker
+# silly word generator
+
+Followed Flutter tutorial 
+
+Future add-ons I plan on making:
+- connect random sentence generator api to accompany the new generated word
+- ability to delete from favourites
+
+----------------------
 
 A new Flutter project.
 
